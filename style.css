@@ -1,0 +1,153 @@
+html{
+  background-image: url(https://static01.nyt.com/images/2016/11/27/magazine/27ontech1-copy/27ontech1-videoSixteenByNineJumbo1600.jpg);
+  align-items: center;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  padding-right: 80px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.title{
+  font-family:'Tomorrow';
+  background-color: black;
+  font-size: 25px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-bottom: 20px;
+}
+
+.container {
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #2e2e2e;
+  opacity: 0.9;
+  color: black;
+  width: 75%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-family: 'Tomorrow';
+  text-align: center;
+  font-size: 21px;
+  line-height: 2;
+  padding: 20px;
+  margin-top: 20px;
+  margon-bottom: 20px;
+  color: white;
+  border: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.button {
+  border: none;
+  color: black;
+  padding: 20px 44px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.popup1{
+  position: fixed;
+  left: 5vw;
+  top: 20vh;
+  width: 40vw;
+  height: auto;
+  cursor: pointer;
+}
+
+.popup2{
+  cursor: pointer;
+  position: fixed;
+  left: 45vw;
+  top: 30vh;
+  width: 24vw;
+  height: auto;
+}
+
+.popup3{
+  cursor: pointer;
+  position: fixed;
+  left: 60vw;
+  top: 10vh;
+  width: 35vw;
+  height: 35vh;
+}
+
+.popup4{
+  cursor: pointer;
+  position: fixed;
+  left: 35vw;
+  top: 60vh;
+  width: 35vw;
+  height: 35vh;
+}
+
+.popup5{
+  cursor: pointer;
+  position: fixed;
+  left: 15vw;
+  top: 20vh;
+  width: 43vw;
+  height: 60vh;
+}
+
+.popup6{
+  cursor: pointer;
+  position: fixed;
+  left: 50vw;
+  top: 40vh;
+  width: 48vw;
+  height: 50vh;
+}
+
+.popup7{
+  cursor: pointer;
+  position: fixed;
+  left: 40vw;
+  top: 3vh;
+  width: 36vw;
+  height: auto;
+}
+
+.popup8{
+  cursor: pointer;
+  position: fixed;
+  left: 7vw;
+  top: 55vh;
+  width: 30vw;
+  height: auto;
+}
+
+.popup9{
+  cursor: pointer;
+  position: fixed;
+  left: 50vw;
+  top: 10vh;
+  width: 35vw;
+  height: auto;
+}
+
+.popup10{
+  cursor: pointer;
+  position: fixed;
+  left: 2vw;
+  top: 5vh;
+  width: 40vw;
+  height: auto;
+}
